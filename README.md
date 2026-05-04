@@ -54,5 +54,5 @@ main → branch → code → commit → push → PR → review → merge
 ## Outcome
 - Git basics learned
 - Branching understood
-- PR workflow practiced
+- PR workflow practiced   
 - Team collaboration ready
